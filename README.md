@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priom%20Chakraborty-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priom-chakraborty-b5007435b)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/chkpriom?style=flat-square&label=Follow%20on%20GitHub&logo=github&color=6d28d9)](https://github.com/chkpriom)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-chkpriom%20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.kaggle.com/priomchakraborty)&nbsp;
+
 [![Email](https://img.shields.io/badge/Email-priomchakraborty73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:priomchakraborty73@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=chkpriom&style=flat-square&color=7c3aed&label=Profile+Views)
 
@@ -203,13 +204,13 @@ Scalable microservices architecture with container orchestration. Deployed at BU
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=chkpriom&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=94a3b8&count_private=true&include_all_commits=true" height="172"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkpriom&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=94a3b8&langs_count=7" height="172"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -227,15 +228,15 @@ Scalable microservices architecture with container orchestration. Deployed at BU
 
 ---
 
-## 🏅 Trophies
+<!-- ## 🏅 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chkpriom&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=chkpriom&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 </div>
 
 <br/>
 
----
+--- -->
 
 ## ⚔️ Competitive Programming
 
