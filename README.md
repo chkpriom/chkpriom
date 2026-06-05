@@ -212,11 +212,11 @@ Scalable microservices architecture with container orchestration. Deployed at BU
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chkpriom&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=94a3b8&sideLabels=94a3b8"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
